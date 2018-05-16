@@ -1,0 +1,1 @@
+data_dir = '/home/shijie.yang/Theano/Dcgan_code-master/mnist_data'

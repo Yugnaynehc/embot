@@ -1,0 +1,7 @@
+theano
+numpy
+gensim
+sklearn
+baidu-aip
+pyaudio
+jieba
